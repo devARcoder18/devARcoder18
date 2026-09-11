@@ -23,7 +23,6 @@ I build full-stack web applications with React, Next.js, and Node.js — from ad
 
 <br/>
 
-
 ### Stack
 
 <table>
