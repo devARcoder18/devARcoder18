@@ -67,7 +67,6 @@ I build full-stack web applications with React, Next.js, and Node.js — from ad
 <br/>
 
 ### Featured work
-
 | Project | Summary | Stack |
 |---|---|---|
 | **FocusFlow** | AI task & decision planner — turns goals into projects and tasks, with an AI breakdown assistant and a graceful fallback when the model is unavailable. | Next.js · TypeScript · shadcn/ui · Node.js · MongoDB · JWT |
