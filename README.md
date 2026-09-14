@@ -81,7 +81,6 @@ I build full-stack web applications with React, Next.js, and Node.js — from ad
 <br/>
 
 ### Latest writing
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
