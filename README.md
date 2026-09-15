@@ -64,7 +64,6 @@ I build full-stack web applications with React, Next.js, and Node.js — from ad
 </table>
 
 <br/>
-
 ### Featured work
 | Project | Summary | Stack |
 |---|---|---|
