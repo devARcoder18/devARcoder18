@@ -87,7 +87,6 @@ I build full-stack web applications with React, Next.js, and Node.js — from ad
 <br/>
 
 ### Activity
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=devARcoder18&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=1F2937&icon_color=4F46E5&text_color=374151&count_private=true" height="165"/>
