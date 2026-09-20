@@ -22,7 +22,6 @@ I build full-stack web applications with React, Next.js, and Node.js — from ad
 <br/>
 
 ### Stack
-
 <table>
 <tr>
 <td valign="top" width="16%"><b>Frontend</b></td>
