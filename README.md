@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Abdur Razzaq</h1>
 
-<p><b>Full Stack MERN Developer</b> · Hangu, KP, Pakistan</p>
+<p><b>Full Stack MERN Developer</b> · Peshawar, Pakistan</p>
 <p>
   <a href="https://devarcoder.vercel.app/starting">Portfolio</a> ·
   <a href="https://devarcoder.vercel.app/blogs">Blog</a> ·
