@@ -7,7 +7,6 @@
   <a href="https://linkedin.com/in/devarcoder">LinkedIn</a> ·
   <a href="mailto:devarcoder789@gmail.com">Email</a>
 </p>
-
 <img src="https://komarev.com/ghpvc/?username=devARcoder18&label=Profile+views&color=1F2937&style=flat-square" height="20"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/devARcoder18?label=Followers&style=flat-square&color=1F2937&labelColor=0D1117" height="20"/>
