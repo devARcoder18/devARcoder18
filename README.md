@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/github/followers/devARcoder18?label=Followers&style=flat-square&color=1F2937&labelColor=0D1117" height="20"/>
 
 </div>
-
 <br/>
 
 I build full-stack web applications with React, Next.js, and Node.js — from admin-driven content platforms to AI-assisted planning tools. I care about clean architecture, well-tested code, and interfaces that feel considered rather than templated. Currently a Computer Science student at the Virtual University of Pakistan, and open to freelance MERN work, remote roles, and open-source collaboration.
