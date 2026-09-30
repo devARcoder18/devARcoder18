@@ -58,35 +58,6 @@ I build full-stack web applications with React, Next.js, and Node.js — from ad
 </tr>
 </table>
 <br/>
-### Featured work
-| Project | Summary | Stack |
-|---|---|---|
-| **FocusFlow** | AI task & decision planner — turns goals into projects and tasks, with an AI breakdown assistant and a graceful fallback when the model is unavailable. | Next.js · TypeScript · shadcn/ui · Node.js · MongoDB · JWT |
-| **PulseBoard** | Analytics dashboard with Recharts visualizations, date-range and category filters, backed by a full Vitest/RTL/Supertest/Playwright test suite. | Vite · React · Express · MongoDB |
-| **Portfolio + Admin Panel** | Dynamic portfolio site paired with an admin dashboard for managing projects, skills, and content without touching code. | Next.js · React · MongoDB · Tailwind |
-| **E-Commerce Platform** | End-to-end storefront — auth, product catalog, cart, and checkout, fully responsive. | React · Node.js · MongoDB · JWT |
-| **Blogging Platform** | Post management with categories, an author dashboard, and a distraction-free reading view. | React · Express · MongoDB · Tailwind |
-| **Electronic Store** | Retail storefront with advanced filtering and responsive product detail pages. | React · Node.js · MongoDB · REST API |
-
-<sub>Repos: <a href="https://github.com/devARcoder18?tab=repositories">github.com/devARcoder18</a></sub>
-
-<br/>
-
-### Latest writing
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<sub>Auto-updates from <a href="https://devarcoder.vercel.app/blogs">devarcoder.vercel.app/blogs</a> — see <code>.github/workflows/blog-post-workflow.yml</code>.</sub>
-
-<br/>
-
-### Activity
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devARcoder18&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=1F2937&icon_color=4F46E5&text_color=374151&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devARcoder18&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=1F2937&text_color=374151&langs_count=8" height="165"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devARcoder18&bg_color=ffffff&color=4F46E5&line=4F46E5&point=1F2937&area=false&hide_border=true" width="90%"/>
 
