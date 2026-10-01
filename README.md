@@ -58,9 +58,6 @@ I build full-stack web applications with React, Next.js, and Node.js — from ad
 </tr>
 </table>
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devARcoder18&bg_color=ffffff&color=4F46E5&line=4F46E5&point=1F2937&area=false&hide_border=true" width="90%"/>
-
 </div>
 
 <br/>
