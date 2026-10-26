@@ -14,7 +14,9 @@
 <br/>
 I build full-stack web applications with React.js, Next.js, and Node.js — from admin-driven content platforms to AI-assisted planning tools. I care about clean architecture, well-tested code, and interfaces that feel considered rather than templated. Currently a Computer Science student at the Virtual University of Pakistan, and open to freelance MERN work, remote roles, and open-source collaboration.
 <br/>
+
 <br/>
+
 <table>
 <tr>
 <td valign="top" width="16%"><b>Frontend</b></td>
@@ -55,7 +57,9 @@ I build full-stack web applications with React.js, Next.js, and Node.js — from
 </table>
 <br/>
 </div>
+
 <br/>
+
 <div align="center">
 <sub>Thanks for stopping by — feel free to open an issue on this repo if you want to connect.</sub>
 </div>
