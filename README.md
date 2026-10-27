@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Abdur Razzaq</h1>
-<p><b>Full Stack MERN Developer</b> · Peshawar, Pakistan</p> 
+<p><b>Full Stack Developer | Frontend Developer with 3+ years experience</b> · Peshawar, Pakistan</p> 
 <p>
   <a href="https://devarcoder.vercel.app/starting">Portfolio</a> ·
   <a href="https://devarcoder.vercel.app/blogs">Blog</a> ·
