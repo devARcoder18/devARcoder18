@@ -33,6 +33,7 @@ I build full-stack web applications with React.js, Next.js, and Node.js — from
 <img src="https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&logo=mongodb&logoColor=47A248" height="24"/>
 <img src="https://img.shields.io/badge/Mongoose-1F2937?style=flat-square&logo=mongoose&logoColor=white" height="24"/>
 </td>
+  
 </tr>
 <tr>
 <td valign="top"><b>Auth &amp; Testing</b></td>
@@ -56,6 +57,7 @@ I build full-stack web applications with React.js, Next.js, and Node.js — from
 <br/>
 </div>
 <br/>
+
 <div align="center">
 <sub>Thanks for stopping by — feel free to open an issue on this repo if you want to connect.</sub>
 </div>
