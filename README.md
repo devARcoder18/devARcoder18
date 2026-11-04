@@ -57,7 +57,6 @@ I build full-stack web applications with React.js, Next.js, and Node.js — from
 <br/>
 </div>
 <br/>
-
 <div align="center">
 <sub>Thanks for stopping by — feel free to open an issue on this repo if you want to connect.</sub>
 </div>
