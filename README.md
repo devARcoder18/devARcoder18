@@ -2,6 +2,8 @@
 <h1>Abdur Razzaq</h1>
 <p><b>Full Stack Developer | Frontend Developer with 3+ years experience</b> · Peshawar, Pakistan</p> 
 <p>
+
+  
   <a href="https://devarcoder.vercel.app/starting">Portfolio</a> ·
   <a href="https://devarcoder.vercel.app/blogs">Blog</a> ·
   <a href="https://linkedin.com/in/devarcoder">LinkedIn</a> ·
@@ -17,6 +19,8 @@ I build full-stack web applications with React.js, Next.js, and Node.js — from
 <br/>
 <table>
 <tr>
+
+  
 <td valign="top" width="16%"><b>Frontend</b></td>
 <td valign="top">
 <img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB" height="24"/>
@@ -60,3 +64,5 @@ I build full-stack web applications with React.js, Next.js, and Node.js — from
 <div align="center">
 <sub>Thanks for stopping by — feel free to open an issue on this repo if you want to connect.</sub>
 </div>
+
+
